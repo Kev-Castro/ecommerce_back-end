@@ -3,7 +3,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
- [Link to Video Walkthrough](https://youtu.be/f2gtH-z8aes)
+ [Link to Video Walkthrough](https://youtu.be/S0-LqeJK8UU)
 ---
 
 ## Description
